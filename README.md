@@ -1,1 +1,1 @@
-naaclsrw-emoji-prediction
+emoji-prediction
